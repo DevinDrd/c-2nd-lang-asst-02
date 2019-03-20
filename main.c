@@ -1,7 +1,9 @@
 #include <stdio.h>
 
+void run_linked_list();
+
 int main() {
-    printf("Hello, World!\n");
+    run_linked_list();
 
     return 0;
 }
